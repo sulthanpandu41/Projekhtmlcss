@@ -1,0 +1,40 @@
+body {
+  background-color: blue;
+  font: 16px arial,san-serif;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: cornsilk;
+}
+
+.header {
+  padding-left: 20px;
+  text-align: center;
+}
+
+.description {
+  padding: 10px;
+}
+
+.banner {
+  height: 250px;
+  background-image: url(image/lancelot.jpg);
+  background-position: 0 800px;
+  border-top: 5px solid blue;
+  border-bottom: 5px solid blue;
+}
+
+.footer {
+  height: 40px;
+  background-color: rgb(252, 139, 102);
+  padding: 20px;
+}
+
+.copyright {
+  text-align: center;
+  font-weight: bold;
+  
+}
+
